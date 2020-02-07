@@ -13,5 +13,7 @@ h2 {
 }
 
 footer {
-    background-color: slateblue;
+    height: 50px;
+    border-top: grey;
+    background-color: salmon;
 }
